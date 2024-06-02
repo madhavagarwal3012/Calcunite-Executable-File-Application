@@ -22,7 +22,7 @@ To use Calcunite, follow these steps:
    cd Calcunite
 
 3. Run the main script:
-   python main.py
+   python Main File.py
 
 ## 📚 Usage
 
