@@ -33,14 +33,12 @@ Here's an example of using the Arithmetic Operations tool:
 Welcome to Calcunite Your Python Toolkit!
 Please select an option:
 I. Calculator Tools
-...
 B. Mathematical Operations
 1. Arithmetic Operations
 i. Addition
 ii. Subtraction
 iii. Multiplication
 iv. Division
-...
 
 Select the appropriate options to navigate through the menu and access the desired tool.
 
