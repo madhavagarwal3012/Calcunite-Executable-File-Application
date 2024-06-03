@@ -20,18 +20,22 @@ To use Calcunite, follow these steps:
    git clone https://github.com/madhavagarwal3012/Calcunite.git
    ```
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
+   ```
    cd Calcunite
+   ```
 
-4. Run the main script:
+3. Run the main script:
+   ```
    python Main File.py
+   ```
 
 ## 📚 Usage
 
 Upon running the main script, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform calculations or generate results.
 
 Here's an example of using the Arithmetic Operations tool:
-
+```
 Welcome to Calcunite Your Python Toolkit!
 Please select an option:
 I. Calculator Tools
@@ -41,6 +45,7 @@ i. Addition
 ii. Subtraction
 iii. Multiplication
 iv. Division
+```
 
 Select the appropriate options to navigate through the menu and access the desired tool.
 
