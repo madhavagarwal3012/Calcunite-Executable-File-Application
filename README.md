@@ -16,12 +16,14 @@ Calcunite is a versatile Python toolkit designed to provide users with a compreh
 To use Calcunite, follow these steps:
 
 1. Clone the repository:
+   ```
    git clone https://github.com/madhavagarwal3012/Calcunite.git
+   ```
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    cd Calcunite
 
-3. Run the main script:
+4. Run the main script:
    python Main File.py
 
 ## 📚 Usage
