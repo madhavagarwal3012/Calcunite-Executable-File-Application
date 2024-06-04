@@ -35,7 +35,7 @@ To use Calcunite, follow these steps:
 Upon running the main script, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform calculations or generate results.
 
 #Main Menu
-```
+
 # Welcome to Calcunite Your Python Toolkit!
 
 Please select an option:
@@ -160,7 +160,6 @@ Please select an option:
 12. Hollow Hour Glass Pattern
 
 ## VII. Exit
-```
 
 Select the appropriate options to navigate through the menu and access the desired tool.
 
