@@ -175,6 +175,8 @@ You can sponsor this project via these ways.
 
 + [Buy me a coffee](https://buymeacoffee.com/madhavagarwal3012)
 
+Your sponsorship will help us develop pkpy continuously.
+
 ## 📧 Contact
 
 If you have any questions or need further assistance, feel free to reach out:
