@@ -175,7 +175,7 @@ You can sponsor this project via these ways.
 
 + [Buy me a coffee](https://buymeacoffee.com/madhavagarwal3012)
 
-Your sponsorship will help us develop pkpy continuously.
+Your sponsorship will help us develop Calcunite continuously.
 
 ## 📧 Contact
 
