@@ -207,6 +207,10 @@ You can sponsor this project via these ways.
 
 Your sponsorship will help us develop Calcunite continuously.
 
+## Guide
+
+[Calcunite Project Report.pdf](https://github.com/user-attachments/files/15541446/Calcunite.Project.Report.pdf)
+
 ## 📧 Contact
 
 If you have any questions or need further assistance, feel free to reach out:
