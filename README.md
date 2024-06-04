@@ -2,6 +2,14 @@
 
 Calcunite is a versatile Python toolkit designed to provide users with a comprehensive set of calculator, geometry, health, and numerology tools. The project aims to offer a user-friendly interface for performing various calculations and analyses efficiently.
 
+## Supported Platforms
+
+Calcunite should work on any platform with a Python 3.11 compiler.
+These platforms are officially tested.
+
++ Windows 32 bit
++ Windows 64-bit
+
 ## 🌟 Features
 
 Quick overview of the supported features.
