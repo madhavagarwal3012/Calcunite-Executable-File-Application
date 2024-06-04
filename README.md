@@ -211,6 +211,8 @@ Your sponsorship will help us develop Calcunite continuously.
 
 [Calcunite Project Report.pdf](https://github.com/user-attachments/files/15541446/Calcunite.Project.Report.pdf)
 
+You can download the project report for your reference.
+
 ## 📧 Contact
 
 If you have any questions or need further assistance, feel free to reach out:
