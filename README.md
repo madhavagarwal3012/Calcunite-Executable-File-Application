@@ -34,15 +34,15 @@ To use Calcunite, follow these steps:
 
 Upon running the main script, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform calculations or generate results.
 
-#Main Menu
+# Main Menu
 
-# Welcome to Calcunite Your Python Toolkit!
+## Welcome to Calcunite Your Python Toolkit!
 
 Please select an option:
 
-## I. Calculator Tools
-### A. Days Calculator
-### B. Mathematical Operations
+### I. Calculator Tools
+#### A. Days Calculator
+#### B. Mathematical Operations
 1. Arithmetic Operations
     - i. Addition
     - ii. Subtraction
@@ -58,7 +58,7 @@ Please select an option:
     - ii. Mode
     - iii. Median
     - iv. Standard Deviation
-### C. Number Checker
+#### C. Number Checker
 - i. Armstrong Number
 - ii. Strong Number
 - iii. Perfect Number
@@ -71,7 +71,7 @@ Please select an option:
 - x. Lucas Number
 - xi. Triangular Number
 - xii. Palindrome Number
-### D. Series Generator
+#### D. Series Generator
 - i. Armstrong Series
 - ii. Strong Series
 - iii. Perfect Series
@@ -94,36 +94,36 @@ Please select an option:
 ### C. Weight Converter
 ### D. Time Converter
 
-## III. Geometry Tools
-### A. Area Calculator
+### III. Geometry Tools
+#### A. Area Calculator
 1. Rectangle
 2. Square
 3. Circle
 4. Triangle
 5. Parallelogram
 6. Rhombus
-### B. Perimeter Calculator
+#### B. Perimeter Calculator
 1. Rectangle
 2. Square
 3. Circle
 4. Triangle
 5. Parallelogram
 6. Rhombus
-### C. Lateral Surface Area Calculator
+#### C. Lateral Surface Area Calculator
 1. Cube
 2. Cuboid
 3. Cone
 4. Cylinder
 5. Sphere
 6. Hemisphere
-### D. Total Surface Area Calculator
+#### D. Total Surface Area Calculator
 1. Cube
 2. Cuboid
 3. Cone
 4. Cylinder
 5. Sphere
 6. Hemisphere
-### E. Volume Calculator
+#### E. Volume Calculator
 1. Cube
 2. Cuboid
 3. Cone
@@ -131,21 +131,21 @@ Please select an option:
 5. Sphere
 6. Hemisphere
 
-## IV. Health Tools
-### A. BMI Calculator
-### B. Ideal Weight Calculator
+### IV. Health Tools
+#### A. BMI Calculator
+#### B. Ideal Weight Calculator
 
-## V. Numerology Tools
-### A. Life Path Calculator
-### B. Birth Number Calculator
-### C. Expression Number Calculator
-### D. Soul Urge Number Calculator
-### E. Sun Number Calculator
-### F. Personality Number Calculator
-### G. Name Numerology Calculator
+### V. Numerology Tools
+#### A. Life Path Calculator
+#### B. Birth Number Calculator
+#### C. Expression Number Calculator
+#### D. Soul Urge Number Calculator
+#### E. Sun Number Calculator
+#### F. Personality Number Calculator
+#### G. Name Numerology Calculator
 
-## VI. Bonus Tools
-### A. Pattern Printing
+### VI. Bonus Tools
+#### A. Pattern Printing
 1. Square Pattern
 2. Hollow Square Pattern
 3. Right Triangle Pattern
@@ -159,7 +159,7 @@ Please select an option:
 11. Hour Glass Pattern
 12. Hollow Hour Glass Pattern
 
-## VII. Exit
+### VII. Exit
 
 Select the appropriate options to navigate through the menu and access the desired tool.
 
