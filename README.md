@@ -168,6 +168,8 @@ Select the appropriate options to navigate through the menu and access the desir
 
 Contributions to Calcunite are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/Calcunite/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
 
+If you find Calcunite useful, consider star this repository (●'◡'●)
+
 ## Sponsor this project
 
 You can sponsor this project via these ways.
