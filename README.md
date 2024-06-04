@@ -189,6 +189,10 @@ If you have any questions or need further assistance, feel free to reach out:
 You can find the executable file application of Calcunite on GitHub:
 [Calcunite-Executable-File-Application](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=madhavagarwal3012/Calcunite-Executable-File-Application&type=Date)](https://star-history.com/#madhavagarwal3012/Calcunite-Executable-File-Application&Date)
+
 ## 📖 License
 
 This project is licensed under the [MIT License](LICENSE).
