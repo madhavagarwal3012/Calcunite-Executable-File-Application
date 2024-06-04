@@ -34,7 +34,7 @@ To use Calcunite, follow these steps:
 
 Upon running the main script, you will be presented with a user-friendly menu that allows you to select the desired tool category. Simply follow the prompts and enter the required inputs to perform calculations or generate results.
 
-Here's an example of using the Arithmetic Operations tool:
+#Main Menu
 ```
 Welcome to Calcunite Your Python Toolkit!
 Please select an option:
