@@ -36,132 +36,130 @@ Upon running the main script, you will be presented with a user-friendly menu th
 
 #Main Menu
 ```
-Welcome to Calcunite Your Python Toolkit!
+# Welcome to Calcunite Your Python Toolkit!
+
 Please select an option:
 
-I. Calculator Tools
-    A. Days Calculator
-    B. Mathematical Operations
-       1. Arithmetic Operations
-          i. Addition
-          ii. Subtraction
-          iii. Multiplication
-          iv. Division
-          v. Square
-          vi. Square Root
-          vii. Cube
-          viii. Cube Root
-          ix. Factorial
-       2. Basic Statistics
-          i. Mean
-          ii. Mode
-          iii. Median
-          iv. Standard Deviation
-    C. Number Checker
-       i. Armstrong Number
-       ii. Strong Number
-       iii. Perfect Number
-       iv. Automorphic Number
-       v. Oblong Number
-       vi. Harshad Number 
-       vii. Odd/Even
-       viii. Prime Number
-       ix. Fibonacci Number
-       x. Lucas Number
-       xi. Triangular Number
-       x. Palindrome Number
+## I. Calculator Tools
+### A. Days Calculator
+### B. Mathematical Operations
+1. Arithmetic Operations
+    - i. Addition
+    - ii. Subtraction
+    - iii. Multiplication
+    - iv. Division
+    - v. Square
+    - vi. Square Root
+    - vii. Cube
+    - viii. Cube Root
+    - ix. Factorial
+2. Basic Statistics
+    - i. Mean
+    - ii. Mode
+    - iii. Median
+    - iv. Standard Deviation
+### C. Number Checker
+- i. Armstrong Number
+- ii. Strong Number
+- iii. Perfect Number
+- iv. Automorphic Number
+- v. Oblong Number
+- vi. Harshad Number
+- vii. Odd/Even
+- viii. Prime Number
+- ix. Fibonacci Number
+- x. Lucas Number
+- xi. Triangular Number
+- xii. Palindrome Number
+### D. Series Generator
+- i. Armstrong Series
+- ii. Strong Series
+- iii. Perfect Series
+- iv. Automorphic Series
+- v. Oblong Series
+- vi. Harshad Series
+- vii. Odd Series
+- viii. Even Series
+- ix. Square Series
+- x. Cube Series
+- xi. Prime Series
+- xii. Fibonacci Series
+- xiii. Lucas Series
+- xiv. Triangular Series
+- xv. Palindrome Series
 
+## II. Converter Tools
+### A. Length Converter
+### B. Temperature Converter
+### C. Weight Converter
+### D. Time Converter
 
-    D. Series Generator
-       i. Armstrong Series
-       ii. Strong Series
-       iii. Perfect Series
-       iv. Automorphic Series
-       v. Oblong Series
-       vi. Harshad Series
-       vii. Odd Series
-       viii. Even Series
-        ix. Square Series
-        x. Cube Series
-        xi. Prime Series
-        xii. Fibonacci Series
-        xiii. Lucas Series
-        xiv. Triangular Series
-        xv. Palindrome Series
+## III. Geometry Tools
+### A. Area Calculator
+1. Rectangle
+2. Square
+3. Circle
+4. Triangle
+5. Parallelogram
+6. Rhombus
+### B. Perimeter Calculator
+1. Rectangle
+2. Square
+3. Circle
+4. Triangle
+5. Parallelogram
+6. Rhombus
+### C. Lateral Surface Area Calculator
+1. Cube
+2. Cuboid
+3. Cone
+4. Cylinder
+5. Sphere
+6. Hemisphere
+### D. Total Surface Area Calculator
+1. Cube
+2. Cuboid
+3. Cone
+4. Cylinder
+5. Sphere
+6. Hemisphere
+### E. Volume Calculator
+1. Cube
+2. Cuboid
+3. Cone
+4. Cylinder
+5. Sphere
+6. Hemisphere
 
-II. Converter Tools
-A.	Length Converter
-B.	Temperature Converter
-C.	Weight Converter
-D.	Time Converter
+## IV. Health Tools
+### A. BMI Calculator
+### B. Ideal Weight Calculator
 
-III. Geometry Tools
-    A. Area Calculator
-       1. Rectangle
-       2. Square
-       3. Circle
-       4. Triangle
-       5. Parallelogram
-       6. Rhombus
-    B. Perimeter Calculator
-       1. Rectangle
-       2. Square
-       3. Circle
-       4. Triangle
-       5. Parallelogram
-       6. Rhombus
-    C. Lateral Surface Area Calculator
-       1. Cube
-       2. Cuboid
-       3. Cone
-       4. Cylinder
-       5. Sphere
-       6. Hemisphere
-   D. Total Surface Area Calculator
-       1. Cube
-       2. Cuboid
-       3. Cone
-       4. Cylinder
-       5. Sphere
-       6. Hemisphere
-  E. Volume Calculator
-      1. Cube
-       2. Cuboid
-       3. Cone
-       4. Cylinder
-       5. Sphere
-       6. Hemisphere
+## V. Numerology Tools
+### A. Life Path Calculator
+### B. Birth Number Calculator
+### C. Expression Number Calculator
+### D. Soul Urge Number Calculator
+### E. Sun Number Calculator
+### F. Personality Number Calculator
+### G. Name Numerology Calculator
 
-IV. Health Tools
-A.	BMI Calculator
-B.	Ideal Weight Calculator
+## VI. Bonus Tools
+### A. Pattern Printing
+1. Square Pattern
+2. Hollow Square Pattern
+3. Right Triangle Pattern
+4. Right Down Triangle Pattern
+5. Left Triangle Pattern
+6. Left Down Triangle Pattern
+7. Hollow Triangle Pattern
+8. Pyramid Pattern
+9. Hollow Pyramid Pattern
+10. Reverse Pyramid Pattern
+11. Hour Glass Pattern
+12. Hollow Hour Glass Pattern
 
-V. Numerology Tools
-    A. Life Path Calculator
-    B. Birth Number Calculator
-    C. Expression Number Calculator
-    D. Soul Urge Number Calculator
-    E. Sun Number Calculator
-    F. Personality Number Calculator
-    G. Name Numerology Calculator
-
-VI. Bonus Tools
-A.	Pattern Printing
-1.	Square Pattern
-2.	Hollow Square Pattern
-3.	Right Triangle Pattern
-4.	Right Down Triangle Pattern
-5.	Left Triangle Pattern
-6.	Left Down Triangle Pattern
-7.	Hollow Triangle Pattern
-8.	Pyramid Pattern
-9.	Hollow Pyramid Pattern
-10.Reverse Pyramid Pattern
-11.Hour Glass Pattern
-12.Hollow Hour Glass Pattern
-
-VII. Exit
-
+## VII. Exit
 ```
 
 Select the appropriate options to navigate through the menu and access the desired tool.
