@@ -199,7 +199,7 @@ Contributions to Calcunite are welcome! If you have any ideas, suggestions, or b
 
 If you find Calcunite useful, consider star this repository (●'◡'●)
 
-## Sponsor this project
+## 🍀 Sponsor this project
 
 You can sponsor this project via these ways.
 
@@ -207,7 +207,7 @@ You can sponsor this project via these ways.
 
 Your sponsorship will help us develop Calcunite continuously.
 
-## Guide
+## 📚 Guide
 
 [Calcunite Project Report.pdf](https://github.com/user-attachments/files/15541446/Calcunite.Project.Report.pdf)
 
