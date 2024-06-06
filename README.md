@@ -47,7 +47,7 @@ To use Calcunite, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/madhavagarwal3012/Calcunite.git
+   git clone https://github.com/madhavagarwal3012/CALCUNITE.git
    ```
    
 2. Navigate to the project directory:
@@ -57,7 +57,12 @@ To use Calcunite, follow these steps:
 
 3. Run the main script:
    ```
-   python Main File.py
+   python "Main File.py"
+   ```
+   
+4. Clean up the project directory after execution:
+   ```
+   del "Main File.py"
    ```
 
 ## 📚 Usage
