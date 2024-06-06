@@ -52,7 +52,7 @@ To use Calcunite, follow these steps:
    
 2. Navigate to the project directory:
    ```
-   cd Calcunite
+   cd CALCUNITE
    ```
 
 3. Run the main script:
