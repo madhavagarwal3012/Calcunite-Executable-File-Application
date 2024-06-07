@@ -208,6 +208,7 @@ If you find Calcunite useful, consider star this repository (●'◡'●)
 
 You can sponsor this project via these ways.
 
++ [Github Sponsors](https://github.com/sponsors/madhavagarwal3012)
 + [Buy me a coffee](https://buymeacoffee.com/madhavagarwal3012)
 
 Your sponsorship will help me develop Calcunite continuously.
