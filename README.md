@@ -200,7 +200,7 @@ Select the appropriate options to navigate through the menu and access the desir
 
 ## 🤝 Contributing
 
-Contributions to Calcunite are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/Calcunite/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
+Contributions to Calcunite are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
 
 If you find Calcunite useful, consider star this repository (●'◡'●)
 
@@ -214,9 +214,9 @@ Your sponsorship will help me develop Calcunite continuously.
 
 ## 📓 Guide
 
-[Calcunite Project Report.pdf](https://github.com/user-attachments/files/15541446/Calcunite.Project.Report.pdf)
-
 You can download the project report for your reference.
+
+[Calcunite Project Report.pdf](https://github.com/user-attachments/files/15541446/Calcunite.Project.Report.pdf)
 
 ## 📧 Contact
 
