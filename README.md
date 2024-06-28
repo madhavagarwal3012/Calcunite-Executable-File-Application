@@ -39,6 +39,8 @@ Quick overview of the supported features.
 |                          | Personality Number Calculator    | Calculate the personality number based on name                     |
 |                          | Name Numerology Calculator       | Calculate various numerology numbers based on name                 |
 | **Bonus Tools**          | Pattern Printing                 | Print various patterns like square, triangle, pyramid, etc.        |
+|                          | Integer To Roman                 | Convert integers to Roman numerals                                 |
+|                          | Integer To Word                  | Convert integers to their word representation                      |
 | **Exit**                 | Exit                             | Exit the program                                                   |
 
 ## 🛠️ Installation
@@ -193,6 +195,8 @@ Please select an option:
 10. Reverse Pyramid Pattern
 11. Hour Glass Pattern
 12. Hollow Hour Glass Pattern
+##### B. Integer To Roman
+##### C. Integer To Word
 
 #### VII. Exit
 
