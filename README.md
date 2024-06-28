@@ -231,6 +231,11 @@ If you have any questions or need further assistance, feel free to reach out:
 You can find the executable file application of Calcunite on GitHub:
 [Calcunite-Executable-File-Application](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
 
+### 🔗 Other Projects
+
+Check out my other project:
+[2-Dimension](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/tree/main/Application)
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=madhavagarwal3012/Calcunite-Executable-File-Application&type=Date)](https://star-history.com/#madhavagarwal3012/Calcunite-Executable-File-Application&Date)
@@ -238,11 +243,6 @@ You can find the executable file application of Calcunite on GitHub:
 ## 📖 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 🔗 Other Projects
-
-Check out my other project:
-[2-Dimension](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/tree/main/Application)
 
 ---
 
