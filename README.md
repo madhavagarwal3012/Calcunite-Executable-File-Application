@@ -231,7 +231,7 @@ If you have any questions or need further assistance, feel free to reach out:
 You can find the executable file application of Calcunite on GitHub:
 [Calcunite-Executable-File-Application](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application)
 
-### 🔗 Other Projects
+### Other Projects
 
 Check out my other project:
 [2-Dimension](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/tree/main/Application)
