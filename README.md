@@ -239,6 +239,11 @@ You can find the executable file application of Calcunite on GitHub:
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 🔗 Other Projects
+
+Check out my other project:
+[2-Dimension](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-/tree/main/Application)
+
 ---
 
 Thank you for using Calcunite! I hope this toolkit proves to be a valuable resource for your mathematical, geometrical, health-related, and numerological needs. If you have any feedback or suggestions, please let me know. Happy calculating! 😊
