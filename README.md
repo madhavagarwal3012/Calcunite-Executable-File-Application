@@ -206,6 +206,10 @@ Select the appropriate options to navigate through the menu and access the desir
 
 Contributions to Calcunite are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application/issues). If you'd like to contribute code, you can fork the repository and submit a pull request.
 
+- Ensure all code is well-documented and follows best practices.
+- Test your changes thoroughly before submitting a pull request.
+- Use clear commit messages.
+
 If you find Calcunite useful, consider star this repository (●'◡'●)
 
 ## 🍀 Sponsor This Project
