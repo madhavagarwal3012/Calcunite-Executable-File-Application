@@ -64,7 +64,7 @@ To use Calcunite, follow these steps:
    
 4. Clean up the project directory after execution:
    ```
-   del "Main File.py"
+   del *
    ```
 
 ## 📚 Usage
