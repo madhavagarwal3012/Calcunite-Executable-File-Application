@@ -236,10 +236,13 @@ If you have any questions or need further assistance, feel free to reach out:
 
 ## 🔗 Project Link
 
-You can find the executable file application of Calcunite on GitHub:
+- You can find the executable file application of Calcunite on GitHub:
 [Calcunite-Executable-File-Application](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application/tree/main/Application)
 
-Do check out my other project:
+- To Download The Executable File Directly:
+[Click Here](https://github.com/madhavagarwal3012/Calcunite-Executable-File-Application/raw/main/Application/Calcunite.exe)
+
+- Do check out my other project:
 [2-Dimension](https://github.com/madhavagarwal3012/2-Dimension-Executable-File-Application-)
 
 ## ⭐ Star History
