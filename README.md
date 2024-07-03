@@ -210,7 +210,7 @@ Contributions to Calcunite are welcome! If you have any ideas, suggestions, or b
 - Test your changes thoroughly before submitting a pull request.
 - Use clear commit messages.
 
-Recent Contributions:
+<b>Recent Contributions:</b>
 <br>
 ![Alt](https://repobeats.axiom.co/api/embed/34045828229bc5c1e8659a1bfabe848e3483cf71.svg "Repobeats analytics image")
 
