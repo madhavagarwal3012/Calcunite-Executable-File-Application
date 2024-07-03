@@ -211,6 +211,7 @@ Contributions to Calcunite are welcome! If you have any ideas, suggestions, or b
 - Use clear commit messages.
 
 Recent Contributions:
+<br>
 ![Alt](https://repobeats.axiom.co/api/embed/34045828229bc5c1e8659a1bfabe848e3483cf71.svg "Repobeats analytics image")
 
 If you find Calcunite useful, consider star this repository (●'◡'●)
