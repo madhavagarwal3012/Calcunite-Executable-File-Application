@@ -16,8 +16,7 @@ Quick overview of the supported features.
 
 | Feature Category         | Tool Name                        | Description                                                        | Supported |
 |--------------------------|----------------------------------|--------------------------------------------------------------------|-----------|
-| **Calculator Tools**     |                                  |                                                                    |           |
-|                          | Days Calculator                  | *Calculate the number of days between two dates*                   |✅         |
+| **Calculator Tools**     | Days Calculator                  | *Calculate the number of days between two dates*                   |✅         |
 |                          | Mathematical Operations          | *Perform arithmetic operations and basic statistics*               |✅         |
 |                          | Number Checker                   | *Check if a number belongs to various special number categories*   |✅         |
 |                          | Series Generator                 | *Generate series of numbers based on different patterns*           |✅         |
