@@ -20,21 +20,21 @@ Quick overview of the supported features.
 |                          | Mathematical Operations          | *Perform arithmetic operations and basic statistics*               |✅         |
 |                          | Number Checker                   | *Check if a number belongs to various special number categories*   |✅         |
 |                          | Series Generator                 | *Generate series of numbers based on different patterns*           |✅         |
-|                          |   ‎                               |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Converter Tools**      | Length Converter                 | *Convert length between different units*                           |✅         |
 |                          | Temperature Converter            | *Convert temperature between Celsius, Fahrenheit, and Kelvin*      |✅         |
 |                          | Weight Converter                 | *Convert weight between different units*                           |✅         |
 |                          | Time Converter                   | *Convert time between different units*                             |✅         |
-|                          | ‎                                 |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Geometry Tools**       | Area Calculator                  | *Calculate the area of various geometrical shapes*                 |✅         |
 |                          | Perimeter Calculator             | *Calculate the perimeter of various geometrical shapes*            |✅         |
 |                          | Lateral Surface Area Calculator  | *Calculate the lateral surface area of various 3D shapes*          |✅         |
 |                          | Total Surface Area Calculator    | *Calculate the total surface area of various 3D shapes*            |✅         |
 |                          | Volume Calculator                | *Calculate the volume of various 3D shapes*                        |✅         |
-|                          |  ‎   ‎                             |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Health Tools**         | BMI Calculator                   | *Calculate the Body Mass Index (BMI)*                              |✅         |
 |                          | Ideal Weight Calculator          | *Calculate the ideal weight based on height and other factors*     |✅         |
-|                          |   ‎                               |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Numerology Tools**     | Life Path Calculator             | *Calculate the life path number based on birthdate, representing life purpose* |✅         |
 |                          | Birth Number Calculator          | *Calculate the birth number based on day of birth, indicating inherent talents* |✅         |
 |                          | Expression Number Calculator     | *Calculate the expression number based on full name, revealing natural abilities and goals* |✅         |
@@ -42,7 +42,7 @@ Quick overview of the supported features.
 |                          | Sun Number Calculator            | *Calculate the sun number based on month and day of birth, representing outer personality* |✅         |
 |                          | Personality Number Calculator    | *Calculate the personality number based on name consonants, indicating external persona* |✅         |
 |                          | Name Numerology Calculator       | *Calculate various numerology numbers based on name for a comprehensive profile* |✅         |
-|                          | ‎                                 |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Bonus Tools**          | Pattern Printing                 | *Print various patterns like square, triangle, pyramid, etc.*      |✅         |
 |                          | Integer To Roman                 | *Convert integers to Roman numerals*                               |✅         |
 |                          | Integer To Word                  | *Convert integers to their word representation*                    |✅         |
