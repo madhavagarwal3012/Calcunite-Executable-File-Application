@@ -46,7 +46,7 @@ Quick overview of the supported features.
 | **Bonus Tools**          | Pattern Printing                 | *Print various patterns like square, triangle, pyramid, etc.*      |✅         |
 |                          | Integer To Roman                 | *Convert integers to Roman numerals*                               |✅         |
 |                          | Integer To Word                  | *Convert integers to their word representation*                    |✅         |
-|                          |‎                                  |                                                                    |           |
+|                          |                                  |                                                                    |           |
 | **Exit**                 | Exit                             | *Exit the program*                                                 |✅         |
 
 
