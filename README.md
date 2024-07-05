@@ -20,7 +20,7 @@ Quick overview of the supported features.
 |                          | Mathematical Operations          | *Perform arithmetic operations and basic statistics*               |✅         |
 |                          | Number Checker                   | *Check if a number belongs to various special number categories*   |✅         |
 |                          | Series Generator                 | *Generate series of numbers based on different patterns*           |✅         |
-|                          |                                  |                                                                    |           |
+|                          |   ‎                               |                                                                    |           |
 | **Converter Tools**      | Length Converter                 | *Convert length between different units*                           |✅         |
 |                          | Temperature Converter            | *Convert temperature between Celsius, Fahrenheit, and Kelvin*      |✅         |
 |                          | Weight Converter                 | *Convert weight between different units*                           |✅         |
