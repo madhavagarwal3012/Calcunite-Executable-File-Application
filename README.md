@@ -31,7 +31,7 @@ Quick overview of the supported features.
 |                          | Volume Calculator                | Calculate the volume of various 3D shapes                          |✅         |
 | **Health Tools**         | BMI Calculator                   | Calculate the Body Mass Index (BMI)                                |✅         |
 |                          | Ideal Weight Calculator          | Calculate the ideal weight based on height and other factors       |✅         |
-| **Numerology Tools**     | Life Path Calculator             | Calculate the life path number based on birthdate                  |✅         |
+| **Numerology Tools**     | Life Path Calculator             |Calculate the life path number based on birthdate, representing life purpose                  |✅         |
 |                          | Birth Number Calculator          | Calculate the birth number based on birthdate                      |✅         |
 |                          | Expression Number Calculator     | Calculate the expression number based on name                      |✅         |
 |                          | Soul Urge Number Calculator      | Calculate the soul urge number based on name                       |✅         |
