@@ -31,13 +31,13 @@ Quick overview of the supported features.
 |                          | Volume Calculator                | Calculate the volume of various 3D shapes                          |✅         |
 | **Health Tools**         | BMI Calculator                   | Calculate the Body Mass Index (BMI)                                |✅         |
 |                          | Ideal Weight Calculator          | Calculate the ideal weight based on height and other factors       |✅         |
-| **Numerology Tools**     | Life Path Calculator             |Calculate the life path number based on birthdate, representing life purpose                  |✅         |
-|                          | Birth Number Calculator          |Calculate the birth number based on day of birth, indicating inherent talents                   |✅         |
-|                          | Expression Number Calculator     |Calculate the expression number based on full name, revealing natural abilities and goals                      |✅         |
-|                          | Soul Urge Number Calculator      |Calculate the soul urge number based on name vowels, indicating inner desires                      |✅         |
-|                          | Sun Number Calculator            |Calculate the sun number based on month and day of birth, representing outer personality                             |✅         |
-|                          | Personality Number Calculator    |Calculate the personality number based on name consonants, indicating external persona                    |✅         |
-|                          | Name Numerology Calculator       |Calculate various numerology numbers based on name for a comprehensive profile                |✅         |
+| **Numerology Tools**     | Life Path Calculator             | Calculate the life path number based on birthdate, representing life purpose |✅         |
+|                          | Birth Number Calculator          | Calculate the birth number based on day of birth, indicating inherent talents |✅         |
+|                          | Expression Number Calculator     | Calculate the expression number based on full name, revealing natural abilities and goals |✅         |
+|                          | Soul Urge Number Calculator      | Calculate the soul urge number based on name vowels, indicating inner desires |✅         |
+|                          | Sun Number Calculator            | Calculate the sun number based on month and day of birth, representing outer personality |✅         |
+|                          | Personality Number Calculator    | Calculate the personality number based on name consonants, indicating external persona |✅         |
+|                          | Name Numerology Calculator       | Calculate various numerology numbers based on name for a comprehensive profile |✅         |
 | **Bonus Tools**          | Pattern Printing                 | Print various patterns like square, triangle, pyramid, etc.        |✅         |
 |                          | Integer To Roman                 | Convert integers to Roman numerals                                 |✅         |
 |                          | Integer To Word                  | Convert integers to their word representation                      |✅         |
